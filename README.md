@@ -43,11 +43,12 @@ Cette expérience immersive vise à démontrer que la technologie, loin de nous 
 ### Support médiatique
 Description des types de médias (vidéo, audio, lumières, capteurs, etc.) et de leur intégration pour créer une expérience immersive.
 ### Matériel
-Technologies interactives : Liste des technologies interactives employées (caméras, LIDAR, systèmes RFID, etc.) pour capter et analyser les actions du public en temps réel, permettant de déclencher des événements en réponse.
-
-Plateformes et outils : Présentation matériels et interfaces interactives nécessaires au projet, comme des logiciels de projection, des systèmes de tracking ou des capteurs intelligents.
+Boule Interactive : Un dispositif sensible au toucher capable de détecter les mains des utilisateurs et de générer des réponses visuelles.
+Écran de Projection : Un écran pour afficher les illustrations générées par l’IA.
+Ordinateur : Un PC ou un Mac équipé de logiciels de création visuelle et de programmation d'IA.
 
 ### Logiciels
-Présentation des logiciels et des techniques employée pour réaliser le projet.
+Logiciels d’IA : Outils pour générer des illustrations (par exemple, des logiciels de création artistique alimentés par l’IA).
+Système de Sonorisation : Haut-parleurs pour diffuser des sons ou de la musique d’ambiance.
 
-Réseautage et communication : Explication des systèmes de communication entre les différentes composantes (réseaux, protocoles de communication comme OSC ou MIDI, etc.).
+
