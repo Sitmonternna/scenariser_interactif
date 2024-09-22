@@ -36,6 +36,7 @@ Cette expérience immersive vise à démontrer que la technologie, loin de nous 
 
 ## Ambiance - moodboard
 ### Moodboard visuelle
+
 ### Moodboard sonore
 ### Références artistiques
 
@@ -44,7 +45,9 @@ Cette expérience immersive vise à démontrer que la technologie, loin de nous 
 Utilisation de lumières, audio, vidéo en temps réel et capteur de détection.
 ### Matériel
 Boule Interactive : Un dispositif sensible au toucher capable de détecter les mains des utilisateurs et de générer des réponses visuelles.
+<br>
 Écran de Projection : Un écran pour afficher les illustrations générées par l’IA.
+<br>
 Ordinateur : Un PC ou un Mac équipé de logiciels de création visuelle et de programmation d'IA.
 
 ### Logiciels
