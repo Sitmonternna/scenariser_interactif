@@ -36,9 +36,17 @@ Cette expérience immersive vise à démontrer que la technologie, loin de nous 
 
 ## Ambiance - moodboard
 ### Moodboard visuelle
+<img src="img/moodboard_visuelle.jpg" >
+source images: https://www.lucent-design.co.jp/en/artworks/kaleido-circle/ 
+               https://www.teamlab.art/fr/ew/spiral_fireonice/mifuneyama_lamp/
+               <br>
+               https://meowwolf.com/?gad_source=1&gclid=Cj0KCQjwgL-3BhDnARIsAL6KZ6-_l05LL7f-E_inxbu-6laeTKFXHXHRIVCcIxjQvGWuGWk8kVr1d8EaAlh-EALw_wcB
 
 ### Moodboard sonore
 ### Références artistiques
+<img src="img/reference_artistique.jpg" >
+source images: https://www.lucent-design.co.jp/en/artworks/kaleido-circle/ 
+               https://www.teamlab.art/fr/ew/spiral_fireonice/mifuneyama_lamp/
 
 ## Éléments et technologies nécessaire
 ### Support médiatique
