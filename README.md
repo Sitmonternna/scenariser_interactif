@@ -1,4 +1,4 @@
-# Scénarisation intéractive - Sitmonternna Yi
+# αύρα (ávra) - Sitmonternna Yi
 
 ## Idée générale
 ### Concept
