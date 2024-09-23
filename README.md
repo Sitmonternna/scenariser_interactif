@@ -43,11 +43,17 @@ source images: https://www.lucent-design.co.jp/en/artworks/kaleido-circle/
                https://meowwolf.com/?gad_source=1&gclid=Cj0KCQjwgL-3BhDnARIsAL6KZ6-_l05LL7f-E_inxbu-6laeTKFXHXHRIVCcIxjQvGWuGWk8kVr1d8EaAlh-EALw_wcB
 
 ### Moodboard sonore
-https://ca.pinterest.com/pin/84583299246633867/
-https://ca.pinterest.com/pin/615656211592466190/
 https://pixabay.com/fr/music/meditation-spirituel-heavenly-energy-188908/
+<br>
 https://pixabay.com/fr/music/meditation-spirituel-peaceful-mantra-240925/
+<br>
 https://pixabay.com/fr/music/ambiant-ambiant-relax-sounds-10621/
+<br>
+https://pixabay.com/fr/music/ambiant-ambiant-cinematic-drone-main-10526/
+<br>
+https://pixabay.com/fr/music/ambiant-lost-in-the-forest-236236/
+<br>
+https://pixabay.com/fr/music/meditation-spirituel-cave-of-solitude-187589/
 
 ### Références artistiques
 <img src="img/reference_artistique.jpg" >
