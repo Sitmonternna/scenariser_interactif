@@ -1,4 +1,4 @@
-# Levana  - Sitmonternna Yi
+# Motus Animi (mouvements de l'esprit) - Sitmonternna Yi
 
 ## Idée générale
 ### Concept
@@ -14,25 +14,30 @@ Ce projet a pour objectif de rassembler les proches tout en démontrant l'utilis
 ### Logigramme de l'intéractivité
 ```mermaid
 flowchart TD
-    A[Entrer] -->|Observation d'un stand| B(Placer ses mains par dessus la boules)
-    B --> C{Observation de projection}
-    C -->|Continuer| D[Jouer avec la boule pour bouger projection]
-    C -->|Fini| E[Sortir]
+   A[Entrer dans la pièce] --> B(Avancer vers le stand)
+    B --> C{Scanné mains sur la boule}
+    C -->D[Projection de l'animation]
     D -->F[Sortir]
+    D -->E[Bouge les mains sur la boule pour jouer avec l'animation]
+    E -->G[Sortir]
 ```
 <br>
 
 ### Narratif
-Il n' y a pas de contexte narratif dans ce projet.
+Il n' y a pas de trame narrative.
 
 ### Expérience intéractive
-1. Installation de la Boule Interactif : Les participants sont invités à s'approcher d'une grande boule lumineuse. En plaçant leurs mains dessus, ils déclenchent une réponse visuelle unique.
+#### Installation de la Boule Interactif 
+Les participants sont invités à s'approcher d'une grande boule lumineuse. En plaçant leurs mains dessus, ils déclenchent une réponse visuelle unique.
 
-2. Visualisation de l'Énergie : À mesure qu'ils interagissent avec la boule, une illustration dynamique générée par l’intelligence artificielle apparaît sur un écran nearby, représentant leur énergie sous forme de couleurs et de formes abstraites. Chaque interaction est différente, rendant chaque expérience personnelle et unique.
+#### Scanne 
+La boule scannera leur battement de coeur, leur biométrie ainsi que leur température afin de personnaliser leur animation la boule émettera une lumière pour indiquer son processus.
 
-3. Partage et Discussion : Après avoir exploré l’illustration, les visiteurs sont encouragés à partager leurs ressentis avec les autres. Des espaces de discussion sont aménagés pour favoriser les échanges sur leurs expériences respectives.
+#### Visualisation de l'Énergie 
+À mesure qu'ils interagissent avec la boule, une animation générée par l’intelligence artificielle est projetter sur toute la pièce et les lumières changeront de couleurs aussi, représentant leur énergie sous forme de couleurs et  formes abstraites. Chaque interaction est différente, rendant chaque expérience personnelle et unique.
 
-Cette expérience immersive vise à démontrer que la technologie, loin de nous isoler, peut servir de pont pour des interactions humaines enrichissantes.
+#### Intéractivité avec la boule
+À mesure que les visiteurs bouge leur mains l' animation bougera et les couleurs de lumières changeront aussi.
 
 ## Ambiance - moodboard
 ### Moodboard visuelle
@@ -44,17 +49,11 @@ source images: https://www.lucent-design.co.jp/en/artworks/kaleido-circle/
 
 ### Moodboard sonore
 [Sonore 1](https://pixabay.com/fr/music/meditation-spirituel-heavenly-energy-188908/)
-
 <br>
-
 [Sonore 2](https://pixabay.com/fr/music/ambiant-ambiant-relax-sounds-10621/)
-
 <br>
-
 [Sonore 3](https://pixabay.com/fr/music/ambiant-lost-in-the-forest-236236/)
-
 <br>
-
 [Sonore 4](https://pixabay.com/fr/music/meditation-spirituel-cave-of-solitude-187589/)
 
 
@@ -65,7 +64,7 @@ source images: https://www.lucent-design.co.jp/en/artworks/kaleido-circle/
 
 ## Éléments et technologies nécessaire
 ### Support médiatique
-Utilisation de lumières, audio, vidéo en temps réel et capteur de détection.
+Utilisation de lumières, audio, Mini Heart Rate Unit (MAX30100) Pulse Oximeter, vidéo en temps réel et capteur de détection.
 ### Matériel
 Boule Interactive : Un dispositif sensible au toucher capable de détecter les mains des utilisateurs et de générer des réponses visuelles.
 <br>
@@ -78,5 +77,7 @@ Touch Designer: Création de vidéo, gérer lumières et audio
 Arduino: Configuration du capteur
 Logiciels d’IA - Ebsynth(animation)  AIVA(music)  : Personnalisation de l' animation, couleur de lumières et sons. 
 
-
-
+https://shop.m5stack.com/products/mini-heart-unit?srsltid=AfmBOoqE3PMp5d5TMHfnrPCk2QJzVw5UuLoiVOFSCavbM9qpY9Q5_qGM
+https://docs.m5stack.com/en/unit/heart
+https://lastminuteengineers.com/max30100-pulse-oximeter-heart-rate-sensor-arduino-tutorial/
+https://www.digikey.ca/en/products/detail/m5stack-technology-co-ltd/U029/13148780?s=N4IgTCBcDaILIEEAaBmADARjWgBAWwFYBnAFwEMBjAaxAF0BfIA
