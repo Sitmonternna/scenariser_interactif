@@ -46,19 +46,14 @@ source images: https://www.lucent-design.co.jp/en/artworks/kaleido-circle/
 [Sonore 1](https://pixabay.com/fr/music/meditation-spirituel-heavenly-energy-188908/)
 
 <br>
-[Sonore 2](https://pixabay.com/fr/music/meditation-spirituel-peaceful-mantra-240925/)
+
+[Sonore 2](https://pixabay.com/fr/music/ambiant-ambiant-relax-sounds-10621/)
 
 <br>
-[Sonore 3](https://pixabay.com/fr/music/ambiant-ambiant-relax-sounds-10621/)
+[Sonore 3](https://pixabay.com/fr/music/ambiant-lost-in-the-forest-236236/)
 
 <br>
-[Sonore 4](https://pixabay.com/fr/music/ambiant-ambiant-cinematic-drone-main-10526/)
-
-<br>
-[Sonore 5](https://pixabay.com/fr/music/ambiant-lost-in-the-forest-236236/)
-
-<br>
-[Sonore 6](https://pixabay.com/fr/music/meditation-spirituel-cave-of-solitude-187589/)
+[Sonore 4](https://pixabay.com/fr/music/meditation-spirituel-cave-of-solitude-187589/)
 
 
 ### Références artistiques
