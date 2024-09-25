@@ -2,13 +2,13 @@
 
 ## Idée générale
 ### Concept
-Les visiteurs sont invités à poser leurs mains sur une boule interactive, où ils pourront observer une illustration générée par une intelligence artificielle, reflétant leur énergie. Les couleurs et les formes abstraites, également créées par l'IA, viendront enrichir cette expérience visuelle unique.
+Une immersion intéractive faite à l'aide de l'intelligence artificielle dans un dome accompagnée de musique et décoration lumineuse.
 
 ### Objectif
 Ce projet vise à offrir aux visiteurs une interaction humaine enrichie par la technologie. Il s’agit également d’une activité conviviale pouvant rassembler de larges groupes, favorisant ainsi le renforcement des liens humains grâce à l’innovation technologique.
 
 ### Motivation créative
-Ce projet a pour objectif de rassembler les proches tout en démontrant l'utilisation artistique de l'intelligence artificielle, accessible à tous, même à ceux qui n'ont aucune connaissance de cette technologie. Il cherche à dissiper les stéréotypes associés à l'IA, en montrant qu'elle peut enrichir les interactions humaines et favoriser des moments de partage et de connexion authentiques, même à l’ère numérique.
+Ce projet a pour objectif de rassembler les proches tout en démontrant l'utilisation artistique de l'intelligence artificielle. Il cherche à dissiper les stéréotypes associés à l'IA, en montrant qu'elle peut enrichir les interactions humaines et favoriser des moments de partage et de connexion authentiques, même à l’ère numérique.
 
 ## Scénario intéractif
 ### Logigramme de l'intéractivité
@@ -24,11 +24,13 @@ flowchart TD
 <br>
 
 ### Narratif
-Il n' y a pas de trame narrative.
+Il n' y a pas de trame narrative, le projet est une immersion intéractive dans un dome.
+#### Possibilités fixes
+Placer les mains sur la boule pour enclencher la projection/animation.
 
 ### Expérience intéractive
 #### Installation de la Boule Interactif 
-Les participants sont invités à s'approcher d'une grande boule lumineuse. En plaçant leurs mains dessus, ils déclenchent une réponse visuelle unique.
+Les participants sont invités à s'approcher d'une boule lumineuse. En plaçant leurs mains dessus, elle déclenche un visuel unique.
 
 #### Scanne 
 La boule scannera leur battement de coeur, leur biométrie ainsi que leur température afin de personnaliser leur animation la boule émettera une lumière pour indiquer son processus.
@@ -48,9 +50,6 @@ source images: https://www.lucent-design.co.jp/en/artworks/kaleido-circle/
                https://meowwolf.com/?gad_source=1&gclid=Cj0KCQjwgL-3BhDnARIsAL6KZ6-_l05LL7f-E_inxbu-6laeTKFXHXHRIVCcIxjQvGWuGWk8kVr1d8EaAlh-EALw_wcB
 
 ### Moodboard sonore
-<a href="https://pixabay.com/fr/music/meditation-spirituel-heavenly-energy-188908/" target="_blank"> Sonore 1c
-<a href="https://support.google.com/chrome/answer/95647?hl=es&amp;ref_topic=3421433%3F" target="_blank"> </a>
-
 [Sonore 1](https://pixabay.com/fr/music/meditation-spirituel-heavenly-energy-188908/)
 <br>
 [Sonore 2](https://pixabay.com/fr/music/ambiant-ambiant-relax-sounds-10621/)
@@ -67,20 +66,37 @@ source images: https://www.lucent-design.co.jp/en/artworks/kaleido-circle/
 
 ## Éléments et technologies nécessaire
 ### Support médiatique
-Utilisation de lumières, audio, Mini Heart Rate Unit (MAX30100) Pulse Oximeter, vidéo en temps réel et capteur de détection.
+Lumières 
+<br>
+Audio
+<br>
+Vidéo en temps réel 
+<br>
+Projection
+<br>
+Capteurs
+
 ### Matériel
-Boule Interactive : Un dispositif sensible au toucher capable de détecter les mains des utilisateurs et de générer des réponses visuelles.
+Mini Heart Rate Unit (MAX30100) Pulse Oximeter
 <br>
-Écran de Projection : Un écran pour afficher les illustrations générées par l’IA.
+Ordinateur
 <br>
-Ordinateur : Un PC ou un Mac équipé de logiciels de création visuelle et de programmation d'IA.
+Lumière en forme de chandelles
+<br>
+Projecteur
+<br>
+Haut-parleur
+<br>
+Capteur de lumière
+<br>
+Boule semi-transpararente
+<br>
+Capteur de température et d'humidité numérique
+<br>
+Lecteur d'empreinte digital
 
 ### Logiciels
-Touch Designer: Création de vidéo, gérer lumières et audio
-Arduino: Configuration du capteur
-Logiciels d’IA - Ebsynth(animation)  AIVA(music)  : Personnalisation de l' animation, couleur de lumières et sons. 
-
-https://shop.m5stack.com/products/mini-heart-unit?srsltid=AfmBOoqE3PMp5d5TMHfnrPCk2QJzVw5UuLoiVOFSCavbM9qpY9Q5_qGM
-https://docs.m5stack.com/en/unit/heart
-https://lastminuteengineers.com/max30100-pulse-oximeter-heart-rate-sensor-arduino-tutorial/
-https://www.digikey.ca/en/products/detail/m5stack-technology-co-ltd/U029/13148780?s=N4IgTCBcDaILIEEAaBmADARjWgBAWwFYBnAFwEMBjAaxAF0BfIA
+Touch Designer
+Arduino
+Ebsynth(animation)  
+AIVA(music) 
