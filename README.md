@@ -15,7 +15,7 @@ Ce projet a pour objectif de rassembler les proches tout en démontrant l'utilis
 ```mermaid
 flowchart TD
    A[Entrer dans la pièce] --> B(Avancer vers le présentoire)
-     A--> G(Sortir)
+     A[Entrer dans la pièce]--> G(Sortir)
     B --> C{Scanné mains sur la boule}
     C -->D[Projection de l'animation]
     D -->F[Sortir]
