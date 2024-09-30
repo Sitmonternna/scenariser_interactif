@@ -97,6 +97,9 @@ Lecteur d'empreinte digital
 
 ### Logiciels
 Touch Designer
+<br>
 Arduino
+<br>
 Ebsynth(animation)  
+<br>
 AIVA(music) 
