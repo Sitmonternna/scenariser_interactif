@@ -14,11 +14,11 @@ Ce projet a pour objectif de rassembler les proches tout en démontrant l'utilis
 ### Logigramme de l'intéractivité
 ```mermaid
 flowchart TD
-   A[Entrer dans la pièce] --> B(Avancer vers le présentoire)
+   A[Entrer dans la pièce] --> B(Avancer vers le présentoire) -->G[Sortir]
     B --> C{Scanné mains sur la boule}
     C -->D[Projection de l'animation]
     D -->F[Sortir]
-    D -->E[Bouge les mains sur la boule pour jouer avec l'animation]
+    D -->E[Bouge les mains sur la boule]
     E -->G[Sortir]
 ```
 <br>
