@@ -71,7 +71,7 @@ La boule scannera leur battement de coeur, leur biométrie ainsi que leur tempé
 <img src="img/circulation.png" >
 
 ## Scénarimage
-<img src="img/scenarimage.png" >
+<img src="img/scenarimage_nv.png" >
 <br>
 
 ## Synoptique
@@ -80,20 +80,8 @@ La boule scannera leur battement de coeur, leur biométrie ainsi que leur tempé
 ## Plantation
 <img src="img/studios_plan.png" >
 
-## Anticiper les besoins matériels et logiciels
+## Besoins matériels et logiciels
 ### Liste des équipements
-Identifier les équipements nécessaires (projecteurs, serveurs, capteurs, dispositifs interactifs, etc.) et justifier leur choix en fonction des besoins du projet.
-
-### Logiciels et réseaux
-
-## Éléments et technologies nécessaire
-Touch Designer
-<br>
-Arduino
-<br>
-Reaper
-
-#### Matériel
 Mini Heart Rate Unit (MAX30100) Pulse Oximeter
 <br>
 Ordinateur
@@ -111,6 +99,15 @@ Boule semi-transpararente
 Capteur de température et d'humidité numérique
 <br>
 Lecteur d'empreinte digital
+
+### Logiciels et réseaux
+Touch Designer
+<br>
+Arduino
+<br>
+Reaper
+
+
 
 
 
