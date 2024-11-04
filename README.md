@@ -49,7 +49,7 @@ flowchart TD
 ```
 <br>
 
-### Simulation
+
 
 ### Narratif
 Il n' y a pas de trame narrative, le projet est une immersion intéractive dans un dome.
@@ -80,32 +80,18 @@ Capteurs
 
 
 ## Scénarimage / Simulation
-### Visualisation des séquences
-Présenter un scénarimage ou une simulation en 3D qui montre les principales étapes de l’expérience multimédia, du point de vue de l’utilisateur.
-Illustrations des interactions
-### Intégrer des visuels ou des captures d’écrans montrant comment l’installation réagit aux actions des utilisateurs.
-### Évolution visuelle et narrative
-Visualiser la progression de l'expérience en fonction des interactions utilisateurs.
+### Simulation
+<img src="img/circulation.png" >
+<br>
+<img src="img/simulation_mainBouge1.png" >
+<br>
+<img src="img/simulation_mainBouge2.png" >
 
 ## Synoptique
-### Schéma technique
-Créer un synoptique représentant les connexions entre les dispositifs (câblages, réseaux, signaux audio/vidéo, etc.).
-Préciser les types de signal, les protocoles utilisés et la communication entre les dispositifs (OSC, MIDI, DMX, etc.).
-
-### Flux de données
-Décrire le cheminement des flux de données entre les différentes composantes de l’installation.
-
+<img src="img/synoptique.png" >
 
 ## Plantation
-### Emplacement des dispositifs
-Planifier la disposition des dispositifs multimédias dans l’espace (projecteurs, capteurs, caméras, haut-parleurs, etc.).
-Justifier chaque emplacement en fonction des besoins techniques et des interactions utilisateurs.
-
-### Circulation des visiteurs
-Anticiper le mouvement des visiteurs et leur interaction avec les points d’interaction dans l’espace.
-
-### Gestion des câblages
-Préciser comment les câblages et connexions seront organisés pour assurer la sécurité et l’esthétique de l’installation.
+<img src="img/studios_plan.png" >
 
 ## Anticiper les besoins matériels et logiciels
 ### Liste des équipements
