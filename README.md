@@ -68,21 +68,21 @@ La boule scannera leur battement de coeur, leur biométrie ainsi que leur tempé
 
 
 ## Simulation
-<img src="img/simu_proche.png" width="500px">
-<img src="img/simu_loin.png" width="500px">
+<img src="img/simu_proche.png" width="650px">
+<img src="img/simu_loin.png" width="650px">
 
 ## Scénarimage
-<img src="img/scenarimage_nv.png" width="500px" >
+<img src="img/scenarimage_nv.png" width="650px" >
 <br>
 
 ## Synoptique
-<img src="img/synoptique_nv.png" width="500px" >
+<img src="img/synoptique_nv.png" width="650px" >
 
 ## Plantation
-<img src="img/studios_plan_nv.png" width="500px" >
+<img src="img/studios_plan_nv.png" width="650px" >
 
 ## Circulation
-<img src="img/circulation_nv.png" width="500px" >
+<img src="img/circulation_nv.png" width="650px" >
 
 ## Besoins matériels et logiciels
 ### Liste des équipements
