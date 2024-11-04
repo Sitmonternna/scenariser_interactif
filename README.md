@@ -34,8 +34,7 @@ source images: https://www.lucent-design.co.jp/en/artworks/kaleido-circle/
 source images: https://www.lucent-design.co.jp/en/artworks/kaleido-circle/ 
                https://www.teamlab.art/fr/ew/spiral_fireonice/mifuneyama_lamp/
 
-               
-## Scénarimage 
+                
 ### Logigramme de l'intéractivité
 ```mermaid
 flowchart TD
@@ -67,13 +66,13 @@ La boule scannera leur battement de coeur, leur biométrie ainsi que leur tempé
 #### Intéractivité avec la boule
 À mesure que les visiteurs bouge leur mains l' animation bougera et les couleurs de lumières changeront aussi.
 
-Simulation
-### Simulation
+
+## Simulation
 <img src="img/circulation.png" >
+
+## Scénarimage
+<img src="img/scenarimage.png" >
 <br>
-<img src="img/simulation_mainBouge1.png" >
-<br>
-<img src="img/simulation_mainBouge2.png" >
 
 ## Synoptique
 <img src="img/synoptique.png" >
