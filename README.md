@@ -86,21 +86,19 @@ La boule scannera leur battement de coeur, leur biométrie ainsi que leur tempé
 
 ## Besoins matériels et logiciels
 ### Liste des équipements
-Mini Heart Rate Unit (MAX30100) Pulse Oximeter
+Mini Heart Rate Unit (MAX30100) Pulse Oximeter x1
 <br>
-Ordinateur
+Ordinateur x1 
 <br>
-Lumière en forme de chandelles
+Lumière en forme de chandelles x12
 <br>
-Projecteur
+Projecteur x3
 <br>
-Haut-parleur
+Haut-parleur x2
 <br>
-Capteur de lumière
+Boule semi-transpararente x1
 <br>
-Boule semi-transpararente
-<br>
-Capteur de température et d'humidité numérique
+Capteur de température et d'humidité numérique x1
 <br>
 Lecteur d'empreinte digital
 
