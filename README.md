@@ -67,18 +67,6 @@ La boule scannera leur battement de coeur, leur biométrie ainsi que leur tempé
 #### Intéractivité avec la boule
 À mesure que les visiteurs bouge leur mains l' animation bougera et les couleurs de lumières changeront aussi.
 
-
-## Éléments et technologies nécessaire
-### Support médiatique
-Lumières 
-<br>
-Audio
-<br>
-Projection
-<br>
-Capteurs
-
-
 ## Scénarimage / Simulation
 ### Simulation
 <img src="img/circulation.png" >
@@ -98,6 +86,8 @@ Capteurs
 Identifier les équipements nécessaires (projecteurs, serveurs, capteurs, dispositifs interactifs, etc.) et justifier leur choix en fonction des besoins du projet.
 
 ### Logiciels et réseaux
+
+## Éléments et technologies nécessaire
 Touch Designer
 <br>
 Arduino
@@ -123,6 +113,5 @@ Capteur de température et d'humidité numérique
 <br>
 Lecteur d'empreinte digital
 
--Touch designer (Audio )
-- Arduino
+
 
