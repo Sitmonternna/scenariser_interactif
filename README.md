@@ -125,5 +125,4 @@ Lecteur d'empreinte digital
 
 -Touch designer (Audio )
 - Arduino
-Préciser les logiciels et systèmes nécessaires au bon fonctionnement de l’installation (logiciels de projection, de traitement vidéo, gestion d’éclairage, etc.).
-Décrire la gestion des réseaux et des systèmes de communication entre les différentes composantes.
+
