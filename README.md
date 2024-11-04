@@ -67,7 +67,7 @@ La boule scannera leur battement de coeur, leur biométrie ainsi que leur tempé
 #### Intéractivité avec la boule
 À mesure que les visiteurs bouge leur mains l' animation bougera et les couleurs de lumières changeront aussi.
 
-## Scénarimage / Simulation
+Simulation
 ### Simulation
 <img src="img/circulation.png" >
 <br>
