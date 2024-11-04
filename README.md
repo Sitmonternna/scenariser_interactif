@@ -101,6 +101,10 @@ Capteur de température et d'humidité numérique
 Lecteur d'empreinte digital
 
 ### Logiciels et réseaux
+Mad mapper
+<br>
+Osc bridge
+<br>
 Touch Designer
 <br>
 Arduino
