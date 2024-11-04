@@ -8,37 +8,8 @@ Une immersion intéractive faite à l'aide de l'intelligence artificielle dans u
 Ce projet vise à offrir aux visiteurs une interaction humaine enrichie par la technologie. Il s’agit également d’une activité conviviale pouvant rassembler de larges groupes, favorisant ainsi le renforcement des liens humains grâce à l’innovation technologique.
 
 ### Motivation créative
-Ce projet a pour objectif de rassembler les proches tout en démontrant l'utilisation artistique de l'intelligence artificielle. Il cherche à dissiper les stéréotypes associés à l'IA, en montrant qu'elle peut enrichir les interactions humaines et favoriser des moments de partage et de connexion authentiques, même à l’ère numérique.
+Ce projet a pour objectif de rassembler les proches tout en démontrant en intéragissant avec une boule lumineuse .
 
-## Scénario 
-### Logigramme de l'intéractivité
-```mermaid
-flowchart TD
-   A[Entrer dans la pièce] --> B(Avancer vers le présentoire)
-    A[Entrer dans la pièce]  -->G[Sortir]
-    B --> C{Scanné mains sur la boule}
-    C -->D[Projection de l'animation]
-    D -->F[Sortir]
-    D -->E[Bouge les mains sur la boule]
-    E -->G[Sortir]
-```
-<br>
-
-### Narratif
-Il n' y a pas de trame narrative, le projet est une immersion intéractive dans un dome.
-
-### Expérience de l' utilisateur
-#### Installation de la Boule Interactif 
-Les participants sont invités à s'approcher d'une boule lumineuse. En plaçant leurs mains dessus, elle déclenche un visuel unique.
-
-#### Scanne 
-La boule scannera leur battement de coeur, leur biométrie ainsi que leur température afin de personnaliser leur animation la boule émettera une lumière pour indiquer son processus.
-
-#### Visualisation de l'Énergie 
-À mesure qu'ils interagissent avec la boule, une animation générée par l’intelligence artificielle est projetter sur toute la pièce et les lumières changeront de couleurs aussi, représentant leur énergie sous forme de couleurs et  formes abstraites. Chaque interaction est différente, rendant chaque expérience personnelle et unique.
-
-#### Intéractivité avec la boule
-À mesure que les visiteurs bouge leur mains l' animation bougera et les couleurs de lumières changeront aussi.
 
 ## Ambiance - moodboard
 ### Moodboard visuelle
@@ -63,6 +34,40 @@ source images: https://www.lucent-design.co.jp/en/artworks/kaleido-circle/
 source images: https://www.lucent-design.co.jp/en/artworks/kaleido-circle/ 
                https://www.teamlab.art/fr/ew/spiral_fireonice/mifuneyama_lamp/
 
+               
+## Scénarimage 
+### Logigramme de l'intéractivité
+```mermaid
+flowchart TD
+   A[Entrer dans la pièce] --> B(Avancer vers le présentoire)
+    A[Entrer dans la pièce]  -->G[Sortir]
+    B --> C{Scanné mains sur la boule}
+    C -->D[Projection de l'animation]
+    D -->F[Sortir]
+    D -->E[Bouge les mains sur la boule]
+    E -->G[Sortir]
+```
+<br>
+
+### Simulation
+
+### Narratif
+Il n' y a pas de trame narrative, le projet est une immersion intéractive dans un dome.
+
+### Expérience de l' utilisateur
+#### Installation de la Boule Interactif 
+Les participants sont invités à s'approcher d'une boule lumineuse. En plaçant leurs mains dessus, elle déclenche un visuel unique.
+
+#### Scanne 
+La boule scannera leur battement de coeur, leur biométrie ainsi que leur température afin de personnaliser leur animation la boule émettera une lumière pour indiquer son processus.
+
+#### Visualisation de l'Énergie 
+À mesure qu'ils interagissent avec la boule, une animation générée par l’intelligence artificielle est projetter sur toute la pièce et les lumières changeront de couleurs aussi, représentant leur énergie sous forme de couleurs et  formes abstraites. Chaque interaction est différente, rendant chaque expérience personnelle et unique.
+
+#### Intéractivité avec la boule
+À mesure que les visiteurs bouge leur mains l' animation bougera et les couleurs de lumières changeront aussi.
+
+
 ## Éléments et technologies nécessaire
 ### Support médiatique
 Lumières 
@@ -73,31 +78,6 @@ Projection
 <br>
 Capteurs
 
-### Matériel
-Mini Heart Rate Unit (MAX30100) Pulse Oximeter
-<br>
-Ordinateur
-<br>
-Lumière en forme de chandelles
-<br>
-Projecteur
-<br>
-Haut-parleur
-<br>
-Capteur de lumière
-<br>
-Boule semi-transpararente
-<br>
-Capteur de température et d'humidité numérique
-<br>
-Lecteur d'empreinte digital
-
-### Logiciels
-Touch Designer
-<br>
-Arduino
-<br>
-Reaper
 
 ## Scénarimage / Simulation
 ### Visualisation des séquences
@@ -132,6 +112,31 @@ Préciser comment les câblages et connexions seront organisés pour assurer la 
 Identifier les équipements nécessaires (projecteurs, serveurs, capteurs, dispositifs interactifs, etc.) et justifier leur choix en fonction des besoins du projet.
 
 ### Logiciels et réseaux
+Touch Designer
+<br>
+Arduino
+<br>
+Reaper
+
+#### Matériel
+Mini Heart Rate Unit (MAX30100) Pulse Oximeter
+<br>
+Ordinateur
+<br>
+Lumière en forme de chandelles
+<br>
+Projecteur
+<br>
+Haut-parleur
+<br>
+Capteur de lumière
+<br>
+Boule semi-transpararente
+<br>
+Capteur de température et d'humidité numérique
+<br>
+Lecteur d'empreinte digital
+
 -Touch designer (Audio )
 - Arduino
 Préciser les logiciels et systèmes nécessaires au bon fonctionnement de l’installation (logiciels de projection, de traitement vidéo, gestion d’éclairage, etc.).
