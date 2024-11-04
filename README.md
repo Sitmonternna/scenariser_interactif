@@ -79,7 +79,7 @@ La boule scannera leur battement de coeur, leur biométrie ainsi que leur tempé
 <br>
 
 ## Synoptique
-<img src="img/synoptique.png" >
+<img src="img/synoptique_nv.png" >
 
 ## Plantation
 <img src="img/studios_plan_nv.png" >
